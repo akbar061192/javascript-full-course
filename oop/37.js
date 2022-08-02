@@ -16,6 +16,3 @@ createUser.prototype.is18 = function () {
 
 const user1 = new createUser('joe', 'butler', 'testemail', 10, 'new-street');
 console.log(user1.is18());
-
-const numbers = [1, 2, 3, 4, 5];
-console.log(numbers.concat(100));
