@@ -15,4 +15,5 @@ createUser.prototype.is18 = function () {
 };
 
 const user1 = new createUser('joe', 'butler', 'testemail', 10, 'new-street');
-console.log(user1.is18());
+
+console.log(user1);
