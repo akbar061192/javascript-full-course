@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: lightblue;
+}
+
+.wrapper {
+  padding: 30px;
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
